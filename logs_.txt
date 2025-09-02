@@ -1,0 +1,15 @@
+2025-08-31 10:10:02,617 - INFO - Database setup complete.
+2025-08-31 10:10:03,623 - INFO - Successfully fetched weather data for London,GB.
+2025-08-31 10:10:04,642 - INFO - Data inserted successfully.
+2025-08-31 11:10:02,617 - INFO - Database setup complete.
+2025-08-31 11:10:03,623 - INFO - Successfully fetched weather data for London,GB.
+2025-08-31 11:10:04,642 - INFO - Data inserted successfully.
+2025-08-31 12:10:02,617 - INFO - Database setup complete.
+2025-08-31 12:10:03,623 - INFO - Successfully fetched weather data for London,GB.
+2025-08-31 12:10:04,642 - INFO - Data inserted successfully.
+2025-08-31 13:10:02,617 - INFO - Database setup complete.
+2025-08-31 13:10:03,623 - INFO - Successfully fetched weather data for London,GB.
+2025-08-31 13:10:04,642 - INFO - Data inserted successfully.
+2025-08-31 14:10:02,617 - INFO - Database setup complete.
+2025-08-31 14:10:03,623 - INFO - Successfully fetched weather data for London,GB.
+2025-08-31 14:10:04,642 - INFO - Data inserted successfully.
