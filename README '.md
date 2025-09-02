@@ -40,14 +40,7 @@ pip install -r requirements.txt
 python main.py --city "London,GB" --timezone "Europe/London"
 ```
 
-## Database Example
-![Database](images/db_example_vscode.png)
 
-## Logging Example
-![Logs](images/logs_example_vscode.png)
-
-## Testing Example
-![Testing](images/test_example_vscode.png)
 
 ## Logging
 Exempelrader från `logs/app.log`:
